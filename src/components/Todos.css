@@ -1,0 +1,23 @@
+ /* .todo-box .content p{
+    margin-top: -6px;
+    margin-left: 6px;
+  }
+  .todo-box span{
+    margin: 0 5px;
+  }
+  .delete-all{
+    width: 400px;
+  }
+  .actions-box{
+    cursor: pointer;
+  }
+  .back-btn{
+    margin-top: 5px;
+    width: 100%;
+  }  */
+*{
+  color: rgb(255, 255, 255);
+  background: #1a0d00;
+}
+
+
